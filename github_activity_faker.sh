@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set your repository directory and GitHub remote name
-REPO_DIR="$HOME/Github-activity-faker"
+REPO_DIR="$HOME/githubfaker"
 REMOTE_NAME="origin"
 
 # Navigate to the repository
